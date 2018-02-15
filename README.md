@@ -14,8 +14,6 @@ Tarea de Administración de Proyectos de Software
 
 \hfill Facultad de Ingenieria
 
- \hfill Nombre: Rivera P\'erez Blanca Estela
-
 \hfill Grupo: 7
 
 \hfill No de Previo: 1}\\
